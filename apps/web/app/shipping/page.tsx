@@ -1,0 +1,2 @@
+import PolicyPage from "../../components/PolicyPage";
+export default function Page() { return <PolicyPage title="Shipping" items={[["Delivery areas","Final serviceability and carrier coverage have not been approved.","A pincode check must be verified by the delivery provider."],["Delivery estimates","No delivery promise is displayed until a carrier quote or approved range exists.","No invented free-shipping or COD promise appears in this demo."]]}/>; }

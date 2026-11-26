@@ -1,0 +1,2 @@
+import PolicyPage from "../../components/PolicyPage";
+export default function Page() { return <PolicyPage title="Returns & refunds" items={[["Policy status","The final policy is pending legal and operations review.","This concept does not publish a blanket no-refund rule."],["Damaged or incorrect items","Report the order and package condition through support.","Do not restock consumable goods without an approved quality process."]]}/>; }

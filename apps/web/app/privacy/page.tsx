@@ -1,0 +1,2 @@
+import PolicyPage from "../../components/PolicyPage";
+export default function Page() { return <PolicyPage title="Privacy" items={[["Information collected","Only data needed for an order, support request or agreed account feature should be collected.","Pet health information is not required in the MVP."],["Your choices","Marketing consent must be separate and unchecked by default.","Account export, correction and deletion workflows require legal review."]]}/>; }

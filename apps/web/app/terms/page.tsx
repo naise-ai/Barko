@@ -1,0 +1,2 @@
+import PolicyPage from "../../components/PolicyPage";
+export default function Page() { return <PolicyPage title="Terms" items={[["Concept status","Barko is a product concept and implementation demonstration.","Synthetic products and prices must not be treated as active commercial offers."],["Product information","A final launch requires approved formulation, label, legal, veterinary and operations sign-offs.","No dental outcome or safety claim is approved in this demo."]]}/>; }
